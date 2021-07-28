@@ -54,6 +54,59 @@ nav ul li a:hover{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.our-services{
+ text-align: center;
+ margin-top: 60px;
+}
+#s{
+    color: #585b5b;
+}
+.box-1,.box-2,.box-3{
+    width: 300px;
+    height: 420px;
+    background-repeat: no-repeat;
+    
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    text-align: center;
+
+    
+}
+.box-c{
+    display: flex;
+    margin-left: 5%;
+    padding: 5%;
+    justify-content: space-around;
+    
+
+}
+.boximg{
+    background-color: salmon;
+    height: 200px;
+    margin: 5%;
+    border-radius: 10px;
+    background-size: cover;
+}
+.img1{background-image: url('images/Alliums-Garlic-Rubbed-Buttery-Roast-Chicken.jpg');
+
+}
+.img2{
+    background-image: url('images/best-vegetable-vegan-paella-recipe-7.jpg');
+}
+.img3{
+background-image: url('images/pantry-recipes-pot-sticker-stir-fry-1543266017.jpg');
+}
+.boximg img{
+    width: 10px;
+}
+.box-c a{
+    background-color: rgb(49, 49, 49);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 7px;
+    box-shadow: 1px 1px 3px dimgray;
+}
+
 
  
 
